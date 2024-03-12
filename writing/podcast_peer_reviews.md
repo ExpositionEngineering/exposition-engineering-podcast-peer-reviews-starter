@@ -20,7 +20,7 @@ request** or **issue tracker** comment in the GitHub repository of your peer
 review partner. You must provide a link to **at minimum three peer reviews**
 that are visible in the GitHub repository of an assignment that was created by
 your peer review partner. Please note that no other types of peer review
-content, excepting those outline in the previous sentences of this paragraph,
+content, excepting those outlined in the previous sentences of this paragraph,
 may be included in the following list.
 
 - **Link to Peer Review 1**: 
