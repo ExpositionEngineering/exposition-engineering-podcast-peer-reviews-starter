@@ -50,10 +50,11 @@ and ultimately apply the technical writing content found in additional resources
 
 ## 🛫 Project Overview
 
-This assignment invites you to create a show outline for a podcast on the topic
-of picking an academic major at an institution like Allegheny College. You must
-read all of the `TODO` markers inside of the `writing/podcast_peer_reviews.md`
-file and write the content and take the steps that they require.
+This assignment invites you to report on the peer reviews that you completed and
+received. You must read all of the `TODO` markers inside of the
+`writing/podcast_peer_reviews.md` file and write the content and take the steps
+that they require. Please see the course instructor if you have questions about
+any aspect of the peer review process for your writing about the podcast.
 
 ## 🐊 Project Assessment
 
