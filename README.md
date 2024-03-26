@@ -18,14 +18,14 @@
 
 ## 🏁 Introduction
 
-This project invites you to describe the visual identity for a podcast on the
-topic of picking an academic major at an undergraduate  institution like
-Allegheny College. In addition to writing all of the required content in the
-file that contains a list of your podcast peer reviews and your reflection on
-the peer review process, you will practice the use of `git` and GitHub and
-learn how to check the writing in a Markdown file through the use of tools like
-the [GatorGrade](https://github.com/GatorEducator/gatorgrade) program that runs
-the automated grading checks provided by
+This project invites you to report and reflect on the peer review process that
+you completed while preparing for interviews of the podcast that this class
+will create. In addition to writing all of the required content in the file
+that contains a list of your podcast peer reviews and your reflection on the
+peer review process, you will practice the use of `git` and GitHub and learn
+how to check the writing in a Markdown file through the use of tools like the
+[GatorGrade](https://github.com/GatorEducator/gatorgrade) program that runs the
+automated grading checks provided by
 [GatorGrader](https://github.com/GatorEducator/gatorgrader).
 
 Please note that the content provided in the `README.md` file for this GitHub
